@@ -35,6 +35,66 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Velles",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-09T16:27:25.289Z",
+      "notes": "",
+      "position": {
+        "lat": "46.66533800523729",
+        "lng": "1.6221024885670279"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Villevaude",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-09T16:31:48.156Z",
+      "notes": "cool",
+      "position": {
+        "lat": "48.898851827635895",
+        "lng": "2.673327971441291"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Macao",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-08-09T16:32:36.185Z",
+      "notes": "cool",
+      "position": {
+        "lat": "39.59202815783717",
+        "lng": "-7.97775391308938"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Sevenoaks",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-08-09T16:37:32.063Z",
+      "notes": "yeah",
+      "position": {
+        "lat": "51.39954726292798",
+        "lng": "0.247505053082735"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Borris in Ossory",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2023-08-09T16:44:29.048Z",
+      "notes": "yes",
+      "position": {
+        "lat": "52.86586083200464",
+        "lng": "-7.69341198706918"
+      },
+      "id": 98443202
     }
   ]
 }
