@@ -44,3 +44,7 @@ TravelTracker relies on the following technologies and APIs:
 - Map: Leaflet Library to display map.
 - Fake External City Name API: To fetch the city name based on geolocation coordinates.
 - Wikipedia API: To provide links to Wikipedia articles for each city.
+
+## Screenshot
+
+![TravelTracker](/public/TravelTracker-Screenshot.PNG)
